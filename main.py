@@ -4,3 +4,4 @@ print("члем")
 print('члемикpad')
 print('кек')
 print(2)
+# хуй вам
