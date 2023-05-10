@@ -1,1 +1,2 @@
 print('Heeeeey')
+print('хуййййййй')
